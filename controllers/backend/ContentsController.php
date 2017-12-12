@@ -5,7 +5,7 @@ namespace kouosl\content\controllers\backend;
 use Yii;
 use kouosl\content\models\Content;
 use kouosl\content\models\ContentSearch;
-use kouosl\content\backend\controllers\DefaultController;
+use kouosl\content\controllers\backend\DefaultController;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
 
